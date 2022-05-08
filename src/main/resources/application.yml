@@ -21,7 +21,7 @@ spring:
     user: root
     password: moplocaldb
     locations: classpath:/db/migration
-
+    
 logging:
   level:
     org.hibernate.SQL: debug
